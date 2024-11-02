@@ -1,2 +1,53 @@
-# introduccion_investigacion
-## (Apuntes)\nTODO
+# Tareasa de Introducción a la Investigación
+
+## Teoría
+- [ ] Presentación
+  - [ ] Apuntes: Presentación
+- [ ] Tres motores para la investigación contemporánea
+  - [ ] Apuntes: Motores de investigación
+- [ ] El ciclo de vida de la investigación
+  - [ ] Apuntes: Ciclo de vida
+- [ ] Generalidades sobre los procesos de publicación
+  - [ ] Apuntes: Procesos de publicación
+- [ ] Las revistas científicas
+  - [ ] Apuntes: Revistas científicas
+- [ ] Participación y publicación en congresos
+  - [ ] Apuntes: Congresos
+- [ ] Preparación de presentaciones orales
+  - [ ] Apuntes: Preparación oral
+- [ ] Presentaciones orales: ¡En directo!
+  - [ ] Apuntes: Práctica presentaciones
+- [ ] La tarea de revisión
+  - [ ] Apuntes: Revisión
+- [ ] La comunicación científica escrita
+  - [ ] Apuntes: Comunicación escrita
+- [ ] Cuestiones humanas y emocionales
+  - [ ] Apuntes: Aspectos emocionales
+- [ ] La tesis doctoral
+  - [ ] Apuntes: Tesis
+- [ ] La brújula ética del investigador
+  - [ ] Apuntes: Ética
+- [ ] Evaluación Parte I
+  - [ ] Apuntes: Evaluación
+- [ ] Comunicar bien
+  - [ ] Apuntes: Comunicación efectiva
+- [ ] I+D+I
+  - [ ] Apuntes: Investigación y desarrollo
+- [ ] Protección y transferencia de los resultados de la I+D
+  - [ ] Apuntes: Protección resultados
+- [ ] Emprendimiento basado en la investigación
+  - [ ] Apuntes: Emprendimiento
+- [ ] Comunicación para la "venta" de los resultados de la I+D
+  - [ ] Apuntes: Marketing investigacións
+- [ ] Vídeos con contenidos complementarios
+  - [ ] Apuntes: Contenido multimedia
+- [ ] Unidad
+  - [ ] Apuntes: Unidad
+- [ ] Nuevos recursos (21-22)
+  - [ ] Apuntes: Recursos adicionales
+
+## Tareas y Entregas
+- [ ] Ejercicio de Comunicación Científica (Escrito + Oral) - Primer Trimestre
+  - Fecha límite: 13 de enero de 2025
+- [ ] Selección y Análisis de Artículo Científico
+  - Fecha límite: 10 de julio de 2025
